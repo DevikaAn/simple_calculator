@@ -1,0 +1,40 @@
+#calc{
+    width: 443px;
+    height: 616px;
+    background: black;
+    margin-left: 606px;
+    margin-top: 87px;
+}
+#screen{
+    width: 90%;
+    height: 98px;
+    margin-left: 18px;
+    margin-top: 30px;
+    pointer-events:none;
+    font-size: 25px;
+}
+.name {
+    width: 30%;
+    height: 20%;
+    font-size: 20px;
+    font-family: Courier New;
+    padding-top: 5px;
+    color: #fff;
+    margin-left: 65%;
+    letter-spacing: 1px;
+}
+.row{
+    padding-left: 26px;
+    padding-top: 10px;
+}
+.btn{
+    width: 73px;
+    height: 55px;
+    margin: 11px;
+    border-radius: 18px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.btn:hover{
+    background-color:#fff;
+}
